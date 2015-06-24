@@ -14,7 +14,7 @@ body {
     background: #eee;
 }
 .message {
-    padding: 10px;
+    padding: 20px;
     border: 2px solid #f22;
     background: #f99;
     margin: 0 auto;
